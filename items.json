@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "@best_nick",   "price": "1000 грн"},
+  {"id": 2, "name": "@fast_user",   "price": "300 грн"},
+  {"id": 3, "name": "@cool_guy",    "price": "500 грн"},
+  {"id": 4, "name": "@pro_trader",  "price": "750 грн"},
+  {"id": 5, "name": "@top_seller",  "price": "1200 грн"},
+  {"id": 6, "name": "@nice_name",   "price": "450 грн"},
+  {"id": 7, "name": "@rare_one",    "price": "2000 грн"}
+]
